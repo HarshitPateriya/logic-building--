@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/HarshitPateriya/logic-building--/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitPateriya/logic-building--/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/HarshitPateriya/logic-building--/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/HarshitPateriya/logic-building--/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/HarshitPateriya/logic-building--/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0977-squares-of-a-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HarshitPateriya/logic-building--/tree/master/0136-single-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshitPateriya/logic-building--/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
