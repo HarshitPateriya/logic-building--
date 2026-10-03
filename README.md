@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshitPateriya/logic-building--/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshitPateriya/logic-building--/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshitPateriya/logic-building--/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Prefix Sum
 |  |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HarshitPateriya/logic-building--/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
