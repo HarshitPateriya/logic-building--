@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/HarshitPateriya/logic-building--/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HarshitPateriya/logic-building--/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1480-running-sum-of-1d-array) |
+| [1550-three-consecutive-odds](https://github.com/HarshitPateriya/logic-building--/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/HarshitPateriya/logic-building--/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshitPateriya/logic-building--/tree/master/2114-maximum-number-of-words-found-in-sentences) |
