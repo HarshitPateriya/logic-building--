@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/HarshitPateriya/logic-building--/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/HarshitPateriya/logic-building--/tree/master/2974-minimum-number-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/HarshitPateriya/logic-building--/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/HarshitPateriya/logic-building--/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/HarshitPateriya/logic-building--/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3875-construct-uniform-parity-array-i](https://github.com/HarshitPateriya/logic-building--/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting Sort
 |  |
 | ------- |
