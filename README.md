@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshitPateriya/logic-building--/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshitPateriya/logic-building--/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshitPateriya/logic-building--/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/HarshitPateriya/logic-building--/tree/master/1389-create-target-array-in-the-given-order) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/HarshitPateriya/logic-building--/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/HarshitPateriya/logic-building--/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HarshitPateriya/logic-building--/tree/master/0035-search-insert-position) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
