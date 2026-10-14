@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/HarshitPateriya/logic-building--/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/HarshitPateriya/logic-building--/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/HarshitPateriya/logic-building--/tree/master/3024-type-of-triangle) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HarshitPateriya/logic-building--/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshitPateriya/logic-building--/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/HarshitPateriya/logic-building--/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/HarshitPateriya/logic-building--/tree/master/3024-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/HarshitPateriya/logic-building--/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/HarshitPateriya/logic-building--/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/HarshitPateriya/logic-building--/tree/master/3024-type-of-triangle) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HarshitPateriya/logic-building--/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting Sort
 |  |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0877-stone-game) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/HarshitPateriya/logic-building--/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
