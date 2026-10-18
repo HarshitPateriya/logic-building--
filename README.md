@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/HarshitPateriya/logic-building--/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/HarshitPateriya/logic-building--/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarshitPateriya/logic-building--/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1844-replace-all-digits-with-characters](https://github.com/HarshitPateriya/logic-building--/tree/master/1844-replace-all-digits-with-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshitPateriya/logic-building--/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/HarshitPateriya/logic-building--/tree/master/2129-capitalize-the-title) |
