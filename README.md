@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HarshitPateriya/logic-building--/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/HarshitPateriya/logic-building--/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/HarshitPateriya/logic-building--/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/0867-transpose-matrix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/HarshitPateriya/logic-building--/tree/master/1389-create-target-array-in-the-given-order) |
 | [2390-removing-stars-from-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/2390-removing-stars-from-a-string) |
@@ -179,5 +181,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
