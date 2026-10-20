@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshitPateriya/logic-building--/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/HarshitPateriya/logic-building--/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/2390-removing-stars-from-a-string) |
+| [3019-number-of-changing-keys](https://github.com/HarshitPateriya/logic-building--/tree/master/3019-number-of-changing-keys) |
 ## Queue
 |  |
 | ------- |
