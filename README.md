@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarshitPateriya/logic-building--/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/HarshitPateriya/logic-building--/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0977-squares-of-a-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HarshitPateriya/logic-building--/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/HarshitPateriya/logic-building--/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/HarshitPateriya/logic-building--/tree/master/0709-to-lower-case) |
@@ -183,4 +185,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/2390-removing-stars-from-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
