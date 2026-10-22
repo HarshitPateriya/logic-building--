@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitPateriya/logic-building--/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HarshitPateriya/logic-building--/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshitPateriya/logic-building--/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0682-baseball-game) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshitPateriya/logic-building--/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HarshitPateriya/logic-building--/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/HarshitPateriya/logic-building--/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshitPateriya/logic-building--/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1486-xor-operation-in-an-array) |
