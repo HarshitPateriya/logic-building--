@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/HarshitPateriya/logic-building--/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/HarshitPateriya/logic-building--/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/HarshitPateriya/logic-building--/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/HarshitPateriya/logic-building--/tree/master/1773-count-items-matching-a-rule) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshitPateriya/logic-building--/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/HarshitPateriya/logic-building--/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/HarshitPateriya/logic-building--/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/HarshitPateriya/logic-building--/tree/master/1108-defanging-an-ip-address) |
+| [1773-count-items-matching-a-rule](https://github.com/HarshitPateriya/logic-building--/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarshitPateriya/logic-building--/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/HarshitPateriya/logic-building--/tree/master/1844-replace-all-digits-with-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2108-find-first-palindromic-string-in-the-array) |
