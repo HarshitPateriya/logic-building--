@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/HarshitPateriya/logic-building--/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HarshitPateriya/logic-building--/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshitPateriya/logic-building--/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/HarshitPateriya/logic-building--/tree/master/2235-add-two-integers) |
