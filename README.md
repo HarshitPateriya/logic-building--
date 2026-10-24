@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitPateriya/logic-building--/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HarshitPateriya/logic-building--/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/HarshitPateriya/logic-building--/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/HarshitPateriya/logic-building--/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0682-baseball-game) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/HarshitPateriya/logic-building--/tree/master/0274-h-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshitPateriya/logic-building--/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshitPateriya/logic-building--/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/HarshitPateriya/logic-building--/tree/master/0274-h-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshitPateriya/logic-building--/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
