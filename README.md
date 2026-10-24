@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshitPateriya/logic-building--/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/HarshitPateriya/logic-building--/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/HarshitPateriya/logic-building--/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/HarshitPateriya/logic-building--/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/HarshitPateriya/logic-building--/tree/master/2652-sum-multiples) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshitPateriya/logic-building--/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/HarshitPateriya/logic-building--/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/HarshitPateriya/logic-building--/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/HarshitPateriya/logic-building--/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/HarshitPateriya/logic-building--/tree/master/3019-number-of-changing-keys) |
 ## Queue
