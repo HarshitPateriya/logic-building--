@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/HarshitPateriya/logic-building--/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/HarshitPateriya/logic-building--/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/HarshitPateriya/logic-building--/tree/master/1773-count-items-matching-a-rule) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshitPateriya/logic-building--/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HarshitPateriya/logic-building--/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshitPateriya/logic-building--/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1486-xor-operation-in-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/HarshitPateriya/logic-building--/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/HarshitPateriya/logic-building--/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/HarshitPateriya/logic-building--/tree/master/2520-count-the-digits-that-divide-a-number) |
