@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshitPateriya/logic-building--/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/HarshitPateriya/logic-building--/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshitPateriya/logic-building--/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshitPateriya/logic-building--/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/HarshitPateriya/logic-building--/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshitPateriya/logic-building--/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/HarshitPateriya/logic-building--/tree/master/2974-minimum-number-game) |
 ## Minimax
@@ -224,4 +228,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
