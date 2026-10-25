@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/HarshitPateriya/logic-building--/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/HarshitPateriya/logic-building--/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HarshitPateriya/logic-building--/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0566-reshape-the-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/HarshitPateriya/logic-building--/tree/master/0724-find-pivot-index) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HarshitPateriya/logic-building--/tree/master/0035-search-insert-position) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HarshitPateriya/logic-building--/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshitPateriya/logic-building--/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
@@ -231,10 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HarshitPateriya/logic-building--/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HarshitPateriya/logic-building--/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -244,4 +248,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0912-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HarshitPateriya/logic-building--/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HarshitPateriya/logic-building--/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HarshitPateriya/logic-building--/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HarshitPateriya/logic-building--/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
