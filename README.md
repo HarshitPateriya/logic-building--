@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/HarshitPateriya/logic-building--/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/HarshitPateriya/logic-building--/tree/master/2409-count-days-spent-together) |
+| [2469-convert-the-temperature](https://github.com/HarshitPateriya/logic-building--/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/HarshitPateriya/logic-building--/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/HarshitPateriya/logic-building--/tree/master/2652-sum-multiples) |
