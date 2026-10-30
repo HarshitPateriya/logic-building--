@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HarshitPateriya/logic-building--/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitPateriya/logic-building--/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0877-stone-game) |
 ## Two Pointers
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HarshitPateriya/logic-building--/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HarshitPateriya/logic-building--/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/HarshitPateriya/logic-building--/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/HarshitPateriya/logic-building--/tree/master/0877-stone-game) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/HarshitPateriya/logic-building--/tree/master/2413-smallest-even-multiple) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/HarshitPateriya/logic-building--/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
