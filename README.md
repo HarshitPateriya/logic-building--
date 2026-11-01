@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/HarshitPateriya/logic-building--/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/HarshitPateriya/logic-building--/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/HarshitPateriya/logic-building--/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/HarshitPateriya/logic-building--/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/HarshitPateriya/logic-building--/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarshitPateriya/logic-building--/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/HarshitPateriya/logic-building--/tree/master/1844-replace-all-digits-with-characters) |
