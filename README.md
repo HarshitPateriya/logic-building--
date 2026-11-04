@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/HarshitPateriya/logic-building--/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/HarshitPateriya/logic-building--/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshitPateriya/logic-building--/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/HarshitPateriya/logic-building--/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/HarshitPateriya/logic-building--/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/HarshitPateriya/logic-building--/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/HarshitPateriya/logic-building--/tree/master/2974-minimum-number-game) |
 ## Binary Search
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/HarshitPateriya/logic-building--/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarshitPateriya/logic-building--/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/HarshitPateriya/logic-building--/tree/master/1844-replace-all-digits-with-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/HarshitPateriya/logic-building--/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitPateriya/logic-building--/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshitPateriya/logic-building--/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/HarshitPateriya/logic-building--/tree/master/2129-capitalize-the-title) |
