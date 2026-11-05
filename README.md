@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/HarshitPateriya/logic-building--/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/HarshitPateriya/logic-building--/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/HarshitPateriya/logic-building--/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/HarshitPateriya/logic-building--/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/HarshitPateriya/logic-building--/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1929-concatenation-of-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/HarshitPateriya/logic-building--/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/HarshitPateriya/logic-building--/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/HarshitPateriya/logic-building--/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/HarshitPateriya/logic-building--/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarshitPateriya/logic-building--/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/HarshitPateriya/logic-building--/tree/master/1844-replace-all-digits-with-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarshitPateriya/logic-building--/tree/master/2011-final-value-of-variable-after-performing-operations) |
