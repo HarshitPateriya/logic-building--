@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/HarshitPateriya/logic-building--/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/HarshitPateriya/logic-building--/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/HarshitPateriya/logic-building--/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/HarshitPateriya/logic-building--/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/HarshitPateriya/logic-building--/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/HarshitPateriya/logic-building--/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HarshitPateriya/logic-building--/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/HarshitPateriya/logic-building--/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/HarshitPateriya/logic-building--/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarshitPateriya/logic-building--/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HarshitPateriya/logic-building--/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshitPateriya/logic-building--/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/HarshitPateriya/logic-building--/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/HarshitPateriya/logic-building--/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HarshitPateriya/logic-building--/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Counting
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/HarshitPateriya/logic-building--/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/HarshitPateriya/logic-building--/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/HarshitPateriya/logic-building--/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/HarshitPateriya/logic-building--/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/HarshitPateriya/logic-building--/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/HarshitPateriya/logic-building--/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/HarshitPateriya/logic-building--/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/HarshitPateriya/logic-building--/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/HarshitPateriya/logic-building--/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/HarshitPateriya/logic-building--/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarshitPateriya/logic-building--/tree/master/1832-check-if-the-sentence-is-pangram) |
